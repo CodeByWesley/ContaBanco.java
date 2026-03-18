@@ -1,5 +1,3 @@
-package bank.account;
-
 import java.util.Scanner;
 
 public class TerminalAccount {

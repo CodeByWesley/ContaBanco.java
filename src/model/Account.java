@@ -1,4 +1,4 @@
-package bank.account;
+package model;
 
 public class Account {
    private String agency;
