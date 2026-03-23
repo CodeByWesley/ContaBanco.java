@@ -13,3 +13,5 @@ This project was built to reinforce key Java concepts such as classes, methods, 
 Future improvements planned for this project include implementing money transfers between accounts, displaying account information, adding constructors, improving project structure, and expanding the simulation of banking operations.
 
 This project represents an important step in my development as a Java developer and demonstrates my progress in learning backend programming concepts.
+
+Autor: Wesley Vitor (CodeByWesley)
