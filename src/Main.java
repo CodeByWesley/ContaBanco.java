@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Locale;
 
 public class Main {
     public static void main (String [] args){
@@ -9,7 +10,7 @@ public class Main {
 
         System.out.println("Enter your full name: ");
         String clientName = scanner.nextLine();
-        System.out.println("Hello, " + clientName + "Welcome to Sapphire Bank");
+        System.out.println("Hello, " + clientName + " Welcome to Sapphire Bank");
 
         System.out.println("Enter your Tax ID Number (TIN): ");
         String taxIdNumber = scanner.nextLine();
