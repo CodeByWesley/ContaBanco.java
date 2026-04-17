@@ -1,17 +1,21 @@
 # Sapphire Bank 🏦
 
-Sapphire Bank is a simple Java console application created to simulate the basic structure of a banking system. The project was developed as part of my Java learning journey with the goal of practicing Object-Oriented Programming concepts and improving my programming logic.
+O Sapphire Bank é uma aplicação simples em Java via console, criada para simular a estrutura básica de um sistema bancário. O projeto foi desenvolvido como parte da minha jornada de aprendizado em Java, com o objetivo de praticar conceitos de Programação Orientada a Objetos (POO) e aprimorar minha lógica de programação.
 
-The application allows the creation of a bank account through terminal interaction. The user is asked to provide personal information such as full name, tax ID number, email, and address details. After providing the information, the system confirms the successful creation of the account.
+A aplicação permite a criação de uma conta bancária através da interação pelo terminal. O sistema solicita informações pessoais como nome completo, CPF, e-mail e detalhes de endereço. Após o preenchimento, o sistema confirma a criação da conta com sucesso.
 
-The project contains a class responsible for representing a bank account, including client information and balance management. Basic operations such as deposit, withdraw, and balance checking are implemented to simulate simple banking behavior.
+O projeto contém uma classe responsável por representar a conta bancária, incluindo os dados do cliente e a gestão de saldo. Operações básicas como depósito, saque e consulta de saldo foram implementadas para simular o comportamento bancário simples.
 
-An Address class was also created to represent the user's address information, demonstrating the use of object composition in Java. The project also includes a main class responsible for interacting with the user through the terminal using the Scanner class.
+Também foi criada uma classe `Endereco` para representar as informações de localização do usuário, demonstrando o uso de composição de objetos em Java. O projeto inclui ainda uma classe principal encarregada da interação com o usuário via terminal utilizando a classe `Scanner`.
 
-This project was built to reinforce key Java concepts such as classes, methods, encapsulation, user input handling, and basic system organization.
+Este sistema foi construído para reforçar conceitos fundamentais de Java, como classes, métodos, encapsulamento, manipulação de entrada de dados e organização básica de sistemas.
 
-Future improvements planned for this project include implementing money transfers between accounts, displaying account information, adding constructors, improving project structure, and expanding the simulation of banking operations.
+**Melhorias futuras planejadas:**
+* Implementação de transferências entre contas.
+* Exibição detalhada dos dados da conta.
+* Adição de construtores e refatoração da estrutura do projeto.
+* Expansão da simulação de operações bancárias.
 
-This project represents an important step in my development as a Java developer and demonstrates my progress in learning backend programming concepts.
+Este projeto representa um passo importante na minha evolução como desenvolvedor Java e demonstra meu progresso no aprendizado de conceitos de programação backend.
 
-Autor: Wesley Vitor (CodeByWesley)
+**Autor:** Wesley Vitor (CodeByWesley)
